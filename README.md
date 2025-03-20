@@ -27,5 +27,5 @@ A estrutura do projeto está organizada da seguinte forma:
 ### Membros do Grupo
 - **Enzo Franco Rocha** - RM: 553643
 - **João Pedro Pereira** - RM: 553698
-- **Hebert Santos de Sousa** - RM: 553227
+- **Herbert Santos de Sousa** - RM: 553227
 
