@@ -1,7 +1,9 @@
 # Projeto Mobile- Sprint 4
 
-## Nome do Grupo
-** **
+## Autores
+** Enzo Franco - RM: 553643 **
+** Herbert Santos de Sousa - RM: 553227**
+** João Pedro Pereira - RM: 553698**
 
 ---
 
