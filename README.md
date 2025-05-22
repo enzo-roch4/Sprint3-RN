@@ -36,7 +36,7 @@ Mostra os integrantes do grupo, com suas respectivas funções e contribuições
 
 A aplicação está integrada com uma API desenvolvida em C#, que conecta com o banco de dados para o armazenamento e gerenciamento dos dados odontológicos. O repositório da API pode ser acessado em:
 
-[[https://github.com/enzo-roch4/Sprint3-.NET.git](https://github.com/enzo-roch4/Sprint3-.NET.git)](https://github.com/enzo-roch4/Sprint4-.NET-Csharp.git)
+https://github.com/enzo-roch4/Sprint4-.NET-Csharp.git
 
 ---
 
